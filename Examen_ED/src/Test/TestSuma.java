@@ -13,7 +13,7 @@ public class TestSuma {
 	
 	@Before
 	public void setUp() throws Exception {
-		
+		assertEquals();
 	}
 
 	@Test
